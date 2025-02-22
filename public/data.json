@@ -1,0 +1,22 @@
+[
+  {
+    "name": "MusicPlayer",
+    "picture": "/images/musicplayer.png",
+    "description": "Just like any Music Player that plays music with several functionalities such as play,next,prev music; sort,create and delete playlists and displays an album of the corresponding song."
+  },
+  {
+    "name": "Grading System",
+    "picture": "/images/gradingsystem.png",
+    "description": "A project embeded with the simplest functions of the SIS System of Ateneo De Davao University allowing the professor to modify the grades of their students."
+  },
+  {
+    "name": "Booking System",
+    "picture": "/images/bookingsystem.png",
+    "description": "The project that operates as a simple booking system slightly similar to the concept of the collabhub in Ateneo De Davao University's Miguel Pro Learning Commons ."
+  },
+  {
+    "name": "Expense Tracker",
+    "picture": "/images/expense2.jpg",
+    "description": "A financial management project that keeps track of an individual's expenses in different categories, helping them to better assess their financial spendings."
+  }
+]
